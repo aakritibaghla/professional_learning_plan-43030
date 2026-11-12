@@ -34,7 +34,3 @@ The reflections draw on my university coursework, programming projects, professi
 Looking back at these goals, I can see how they fit together. My programming projects and work experience have given me opportunities to develop my skills, while my coursework and cybersecurity certificate have helped me build knowledge in areas that are important for responsible development. I still have areas where I need stronger practical experience. In particular, I want to get more comfortable integrating models into applications, testing my code properly, and following a consistent development process.
 
 I also want to keep responsible development in mind as I improve technically. It is important to think about the data being used, who could be affected by a system, and whether the results are fair and appropriate. My next step is to work on a small, well-documented application that lets me practise several of these skills together.
-
-## Repository history
-
-This repository is a reorganised version of my earlier portfolio. The original repository is retained as an archive: [professional-learning-plan-43030](https://github.com/aakritibaghla/professional-learning-plan-43030).
